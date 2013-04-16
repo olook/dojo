@@ -1,0 +1,7 @@
+Regras do DOJO / TDD:
+
+1) 7 minutos para cada dupla (Piloto / Co-piloto)
+2) Assembleia só pode falar quando todos os testes estiverem passando ou quando o piloto/co-piloto pedirem ajuda
+3) Nao escrever codigo de producao que não seja para fazer um teste passar
+4) BabySteps: Escrever codigo de producao apenas o suficiente para fazer o teste passar
+5) Ao final, fazer uma retrospectiva

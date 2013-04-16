@@ -1,0 +1,44 @@
+Problema:
+
+Criar um juiz de Truco em JavaScript.
+
+Entrada:
+
+um array contendo:
+1) tombo
+2) carta do jogador 1
+3) carta do jogador 2
+
+[Tombo, Jogador1, Jogador2]
+
+Ex: [3s, 5c, Qd], o sistema deve retornar: 2
+
+
+Desta forma o Juiz deve dizer quem ganhou seguindo as regras:
+
+Ordem de grandeza das cartas (independente do naipe): 4,5,6,7,Q,J,K,A,2,3
+Ordem de grandeza dos naipes: d (ouro), s(espada), h(copas), c(paus); que deverá ser levando em conta em apenas dois momentos:
+
+  1) Caso haja um empate
+  2) Caso as cartas sejam manilhas
+
+Regra do tombo:
+
+  A carta mais forte do jogo (conhecida como manilha) é a carta sequente ao tombo. Ex: caso o tombo seja um 4, a carta mais forte (manilha) será um 5.
+
+
+Exemplos de entrada / saída:
+
+*) entrada: [As, 7d, Kc], saída: Player 2
+*) entrada: [Qs, 5c, 5d], saída: Player 1 (houve empate, mas Paus é mais forte que Ouro)
+*) entrada: [5d, 3d, 6c], saída: Player 2 (Zap!)
+*) entrada: [Kc, Ad, Ah], saída: Player 2 (7 Copas)
+
+Ambiente / Dependencias:
+
+Node.js
+node-jasmine
+
+
+
+
