@@ -1,0 +1,18 @@
+Retrospectiva
+
+Linguagem:
+  - Ok
+
+Problema:
+  - Muito interessante, complexidade boa.
+  
+Considerações:
+  - Perdemos tempo no setup do ambiente.
+  - Editor padrão: Sublime.
+  - Perdemos um pouco do foco.
+  - Dividir para conquistar: quebrar o problema dado em problemas menores
+  - Começamos atrasado
+  - Overview da linguagem
+
+Proximo Dojo:
+  - All-meida
