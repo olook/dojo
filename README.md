@@ -10,3 +10,10 @@ Juiz do jogo de truco feito em javascript e utilizando Jasmine para testes unit√
 Elevadores Videntes - 2013-04-17
 --------------------------------
 Os elevadores devem prever onde devem estar para o conforto dos usu√°rios. Utilizando Ruby e Rspec. Segundo dojo da olook.
+
+Fontes de desafios
+------------------
+Vamos adicionar aqui sites para procurar desafios
+
+* http://olimpiada.ic.unicamp.br/pratique/programacao
+* https://www.codeeval.com/
